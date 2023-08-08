@@ -3,11 +3,6 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.util.*;
 import java.text.NumberFormat;
-//  Group-B
-//  Team:
-//      1- Shad Abudlsamad
-//      2- Rahen Muhammed
-//      3- Zryan Muhammed
 
 public class MatrixCalculator {
     private static final int max = 100;
